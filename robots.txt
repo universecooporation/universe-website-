@@ -1,4 +1,4 @@
 
 User-agent: *
 Allow: /
-Sitemap: https://www.universecoorporation.com/sitemap.xml
+Sitemap: https://www.universecooporation.com/sitemap.xml
